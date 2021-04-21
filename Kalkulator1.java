@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class KalkulatorSederhana {
+public class Kalkulator1{
     static float total = 0, bil1 = 1, bil2 = 1;
     public static void main(String[] args) {
     Scanner input=new Scanner(System.in);
@@ -42,7 +42,7 @@ public class KalkulatorSederhana {
                 System.out.println("Anda harus mengisi angka");
         }
         System.out.println(total);
-       
+        break;
         }
     }
  }
