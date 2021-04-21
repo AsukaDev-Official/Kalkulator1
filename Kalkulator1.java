@@ -1,5 +1,8 @@
 import java.util.Scanner;
 public class KalkulatorSederhana {
+    System.out.println("Author : Mr will#07");
+    System.out.println("My Team : Asuka dev official");
+    System.out.println("============================");
     static float total = 0, bil1 = 1, bil2 = 1;
     public static void main(String[] args) {
     Scanner input=new Scanner(System.in);
